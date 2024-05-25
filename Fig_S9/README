@@ -1,0 +1,4 @@
+Two separate folders for each protein in Fig S9 that contain:
+- Jupyter notebook used to make the plots
+- Raw minimum distance data (mindist*xvg)
+- Raw data of the angles (angles*xvg)
