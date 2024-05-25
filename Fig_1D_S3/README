@@ -1,0 +1,4 @@
+- The csv files contain the grouped residue data of longest duration of interaction
+- aminoacid_composition.ipynb is the jupyter notebook used to generate and process those files
+- Data summarized in 'means.dat' and plotted in Fig1d.ipynb
+- The csv files are also the ones used for Fig S3, plotted with FigS3.ipynb
