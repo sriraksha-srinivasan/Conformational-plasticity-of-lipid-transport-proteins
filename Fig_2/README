@@ -1,0 +1,4 @@
+- Binding frequencies in the B factor of the PDB files, check the jupyter notebooks for information about the individual files used in the analysis
+- RMSF values for each protein in the rmsf_prot.xvg files
+- Plots in Fig2B using Fig2B.ipynb
+- Boxplots using Fig2C.ipynb
