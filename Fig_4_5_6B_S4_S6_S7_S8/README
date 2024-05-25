@@ -1,0 +1,15 @@
+- Files used for plotting PC1 data (Fig 4C, S4) and volume data (Fig 4C, S6) of all LTPs are the jupyter notebooks (*.ipynb),
+if you want the trajectories used for the analysis, please ask the corresponding author.
+
+- The file GRAMD1C.ipynb has also been used to plot the convergence plot of Fig 4B
+
+- In GRAMD1A_KL.ipynb the KL divergence of WT GRAMD1A is computed (Fig 5A)
+- In GRAMD1C_KL.ipynb the KL divergence of WT GRAMD1C is computed (Fig 5A)
+
+- KL divergence and PC1 projections and contributions of GRAMD1A-5P in GRAMD1A_5P.ipynb (Fig 5B, S7, S8)
+- KL divergence and PC1 projections and contributions of PITPA-P78L in PITPA_P78L.ipynb (Fig 5B, S7, S8)
+- KL divergence and PC1 projections and contributions of CPTP-V158N in CPTP_V158N.ipynb (Fig 5B, S7, S8)
+- KL divergence and PC1 projections and contributions of CPTP-V158N in CPTP_V158N.ipynb (Fig 5B, S7, S8)
+- KL divergence and PC1 projections and contributions of STARD11-5P in STARD11_5P.ipynb (Fig 6B, S7, S8)
+
+- The Volumes folder contain the information of the cavity volymes for all proteins, in separate *.txt files
