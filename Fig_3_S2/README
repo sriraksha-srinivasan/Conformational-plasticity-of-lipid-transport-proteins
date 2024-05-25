@@ -1,0 +1,4 @@
+- PC1 contribution values in the PDB files *pc0_CA.pdb
+- Binding frequencies in the *betafactor*.pdb files, check jupyter notebook for the specific files used in the analysis
+- Fig 3A and Fig S2  plotted using Fig3A_S2.ipynb
+- Boxplots using Fig3C.ipynb
