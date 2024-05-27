@@ -1,0 +1,4 @@
+- original, uncropped and minimally adjusted images supporting all blot and gel results reported in Fig 6E 
+- Sphingomyelin content used for Fig 6F (SM.xlsx)
+- original fluorescent images used for Fig 6C in individual files 
+- quantification GFP in Golgi (DataFluo.xlsx) used in Fig 6D
